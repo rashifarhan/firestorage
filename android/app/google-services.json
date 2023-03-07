@@ -1,0 +1,82 @@
+{
+  "project_info": {
+    "project_number": "700480415968",
+    "project_id": "newfireproject",
+    "storage_bucket": "newfireproject.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700480415968:android:6c6e29277076e3377c0885",
+        "android_client_info": {
+          "package_name": "com.example.firestorage"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700480415968-5qmsu6hpcdaqa89b480tehqbi7np1jms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdPgvFyB_U-RjS57KA4e10oHJW0fupdVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700480415968-5qmsu6hpcdaqa89b480tehqbi7np1jms.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "700480415968-sh709tal7gqmj9i5nl5a4svqs3121tl2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.newfireproject"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:700480415968:android:380009dbf5ea79097c0885",
+        "android_client_info": {
+          "package_name": "com.example.newfireproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "700480415968-5qmsu6hpcdaqa89b480tehqbi7np1jms.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAdPgvFyB_U-RjS57KA4e10oHJW0fupdVk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "700480415968-5qmsu6hpcdaqa89b480tehqbi7np1jms.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "700480415968-sh709tal7gqmj9i5nl5a4svqs3121tl2.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.newfireproject"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
